@@ -150,3 +150,4 @@ cp courses.csv courses_test.csv
 vim courses_test.csv
 vim insert_data.sh
 ./insert_data.sh
+vim insert_data.sh
