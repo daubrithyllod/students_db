@@ -136,3 +136,4 @@ MAJOR='Database Administration'
 psql -X --username=freecodecamp --dbname=students --no-align --tuples-only -c "select major_id from majors where majors.major='$MAJOR'"
 ls --color=auto
 vim insert_data.sh
+./insert_data.sh
