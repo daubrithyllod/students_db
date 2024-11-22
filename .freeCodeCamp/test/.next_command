@@ -121,3 +121,6 @@ vim insert_data.sh
 vim insert_data.sh
 ./insert_data.sh
 declare -p IFS
+cat courses.csv
+ls --color=auto
+vim insert_data.sh
