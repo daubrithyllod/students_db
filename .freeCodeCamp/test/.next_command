@@ -110,3 +110,10 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 touch insert_data.sh
 chmod +x insert_data.sh
 vim insert_data.sh
+ls --color=auto
+cat courses.csv >> insert_data.sh
+vim insert_data.sh
+cat insert_data.sh
+cat course.csv
+cat courses.csv
+vim insert_data.sh
