@@ -137,3 +137,5 @@ psql -X --username=freecodecamp --dbname=students --no-align --tuples-only -c "s
 ls --color=auto
 vim insert_data.sh
 ./insert_data.sh
+ls --color=auto
+vim insert_data.sh
