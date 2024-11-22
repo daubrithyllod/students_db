@@ -168,3 +168,10 @@ vim insert_data.sh
 ./insert_data.sh
 ls --color=auto
 cp students.csv students_test.csv
+vim students_test.csv
+vim students_test.csv
+rm students_test.csv
+cp students.csv students_test.csv
+vim students_test.csv
+view courses_test.csv
+vim students_test.csv
