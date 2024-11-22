@@ -117,3 +117,4 @@ cat insert_data.sh
 cat course.csv
 cat courses.csv
 vim insert_data.sh
+./insert_data.sh
