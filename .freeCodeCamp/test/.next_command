@@ -141,3 +141,10 @@ ls --color=auto
 vim insert_data.sh
 cp courses.csv courses_test.csvd
 cp courses.csv courses_test.csv
+rm courses_test.csvd
+vim courses_test.csv
+vim courses_test.csv
+rm courses_test.csv
+vim courses_test.csv
+cp courses.csv courses_test.csv
+vim courses_test.csv
