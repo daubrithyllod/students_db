@@ -175,3 +175,4 @@ cp students.csv students_test.csv
 vim students_test.csv
 view courses_test.csv
 vim students_test.csv
+vim insert_data.sh
