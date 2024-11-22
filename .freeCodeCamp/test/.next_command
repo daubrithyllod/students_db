@@ -176,3 +176,5 @@ vim students_test.csv
 view courses_test.csv
 vim students_test.csv
 vim insert_data.sh
+./inserrt_data.sh
+./insert_data.sh
