@@ -158,3 +158,4 @@ psql --username=freecodecamp -dbname=postgres
 psql --username=freecodecamp --dbname=postgres
 vim insert_data.sh
 ./insert_data.sh
+vim insert_data.sh
