@@ -129,3 +129,4 @@ cat courses.csv
 vim inster_data.sh
 ls --color=auto
 vim insert_data.sh
+./insert_data.sh
