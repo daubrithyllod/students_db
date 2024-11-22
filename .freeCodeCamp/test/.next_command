@@ -70,3 +70,6 @@ git remote set-url https://github.com/daubrithyllod/students_db.git
 git remote set-url origin https://github.com/daubrithyllod/students_db.git
 git branch -M main
 git push -u origin main
+ls --color=auto
+more courses.csv
+psql --username=freecodecamp --dbname=postgres
